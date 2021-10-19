@@ -1,1 +1,7 @@
-# TeamSkills-Jonas-Noah
+Google Maps API
+
+Teammitglieder:
+
+Jonas Herth
+Noah Lauper
+
