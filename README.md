@@ -2,7 +2,7 @@ Google Maps API
 
 Teammitglieder:
 
-Jonas Herth
+Jonas Herth, 
 Noah Lauper
 
 Idee:
