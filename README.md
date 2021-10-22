@@ -14,3 +14,5 @@ Wir haben dies ausgewählt, weil es sich nach einer machbaren Herausforderung au
 Die SMART Ziele:
 S, M=Ziele Unsere Ziele sind es bis Freitag Mittag, alle Aufgaben die direkt mit programmieren zu tun haben, fertig zu haben. A, R= Motiviert und mit einem Ziel vor Augen zu arbeiten. T= Wir haben nach der Woche das Projekt fertig, ohne zu grossen Zeitstress. Wir arbeiten konzentriert und effektiv.
 
+API:
+https://wiki.openstreetmap.org/wiki/API
